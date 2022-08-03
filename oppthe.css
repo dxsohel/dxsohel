@@ -1,19 +1,15 @@
 #ContactForm1{display:none;}
 #cont{display:none;}
-.quoute-content .quoute-link:hover{
-               color:#C49B66;
-               }
-               .quoute{background-color:#c89c64;width:100%;
-               }
-               .quoute-content{
-               width: 100%;}
-               .quoute-content h1{
-               color:#fff;
+.quoute-content .quoute-link{
+               float: right;
+               color: #fff;
+               border: 3px solid #fff;
+               padding: 10px 25px;
                font-weight: 600;
+               border-radius: 50px;
+               margin-top: 35px;
+               transition:.4s;
                }
-               .quoute-content p{
-               color:#fff;
-               font-weight:400;
-               margin-top:10px
+               .quoute-content .quoute-link:hover{
+               background:#fff;
                }
-               

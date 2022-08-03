@@ -1,6 +1,22 @@
 #ContactForm1{display:none;}
 #cont{display:none;}
-.quoute-content .quoute-link{
+.quoute-content .quoute-link:hover{
+               color:#C49B66;
+               }
+               .quoute{background-color:#c89c64;width:100%;
+               }
+               .quoute-content{
+               width: 100%;}
+               .quoute-content h1{
+               color:#fff;
+               font-weight: 600;
+               }
+               .quoute-content p{
+               color:#fff;
+               font-weight:400;
+               margin-top:10px
+               }
+               .quoute-content .quoute-link{
                float: right;
                color: #fff;
                border: 3px solid #fff;

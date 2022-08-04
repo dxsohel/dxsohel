@@ -9,14 +9,3 @@
     color: black;
     font-size:15px; 
     border-bottom:6px solid #ffa500;}
-.dropdown-button{padding:0;cursor:pointer;position:relative;flex-grow:1;display:flex;flex-basis:auto;align-items:center;}
-.dropdown-button::after{content:"\f107";font-family:"Font Awesome 5 Pro";font-weight:300;text-decoration:inherit;margin-left:5px;}
-.dropdown-container{display:none;top:100%;right:0;max-width:225px;width:200px;position:absolute;padding:5px;z-index:10;margin:0 auto;font-size:15px;-moz-border-image:-moz-linear-gradient(right,white,#cedae0,#cedae0,white) 1 20%;-o-border-image:-o-linear-gradient(right,white,#cedae0,#cedae0,white) 1 20%;border-image:linear-gradient(to right,white 0,#cedae0 40%,#cedae0 60%,white 100%) 1 20%;box-shadow:0 2px 10px -2px #cedae0;background:var(--white);border-radius:5px;}
-.dropdown-content{width:300px;background:rgb(206 218 224 / 22%);padding:2px;width:200px;}
-.dropdown-button span{font-weight:600;font-size:13px;padding:0 4px 0 0;text-transform:uppercase;}
-.dropdown-button span.text{font-weight:400;}
-.dropdown-content nav ul{margin:0;padding:0;}
-.dropdown-content nav ul li{display:block;padding:8px 0;font-size:14px;list-style-type:none;border-top: 2px solid red;}
-.dropdown-content nav ul li i{margin-right:10px;}
-.dropdown-content nav ul li a{display:block;font-size:14px;color:var(--dark);list-style-type:none;}
-.dropdown-content nav ul li a:hover{color:white;background-color:red;border-bottom:double;}

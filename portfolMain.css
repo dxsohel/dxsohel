@@ -9,11 +9,4 @@
     color: black;
     font-size:15px; 
     border-bottom:6px solid #ffa500;}
-.service_list h3{display:none}
-.service_list i{font-size:50px;color:var(--indigo)}
-.service_list:nth-child(2).service_content h4,.service_list:nth-child(2) i{color:var(--red)}
-.service_content{margin-bottom:50px;padding:45px 35px;overflow:hidden;-webkit-transition:.5s all ease-in-out;-o-transition:.5s all ease-in-out;transition:.5s all ease-in-out;-webkit-box-shadow:0 23px 43px 0 rgb(0 0 0 / 13%);box-shadow:0 23px 43px 0 rgb(0 0 0 / 13%);position:relative;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;text-align:center}
-.service_content:after{height:100%;width:100%;position:absolute;top:0;left:0;z-index:-2;background-color:var(--white)}
-.service_list .service_content h4{font-size:20px;font-weight:500;margin:15px 0;line-height:1.6}
-.entry-header h3,.mt_heading{font-weight:700;text-transform:uppercase}
-.service_content p{line-height:1.5;color:var(--gray);margin:0}
+.pricing-wrapper{background-color:red;}

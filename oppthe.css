@@ -29,8 +29,8 @@
                .quoute-content .quoute-link:hover{
                background:#fff;
                }
-.gooey .dot { filter: blur(0px);}
-.gooey .dots span {filter: blur(0px);}
-.blog .item img {
-  filter: blur(0px);
-  -webkit-filter: blur(0px);}
+.gooey .dot{filter: blur(0px);}
+.gooey .dots span{filter:blur(0px);}
+.blog .item img{
+  filter:blur(0px);
+  -webkit-filter:blur(0px);}
